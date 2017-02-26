@@ -27,10 +27,6 @@ technicpack.net
 cloudflare.com
 blockchain.info
 discordapp.com
-
-
-
-
 upwork.com
 codepen.io
 fiverr.com
@@ -168,7 +164,6 @@ avaaz.org
 avaz.ba
 avazutracking.net
 avito.ma
-avito.ru) (confirmed by @toogle from Avito.ru as not affected
 avn.info.ve
 azertag.com
 aznews.az
@@ -723,7 +718,6 @@ maultalk.com
 maxicep.com
 maxmind.com
 mazika2day.com
-mediapart.fr) (not proxified by CF and not affected
 mediatakeout.com
 mediatraffic.com
 medium.com
