@@ -198,7 +198,6 @@ www.bleepingcomputer.com
 www.blekko.com
 www.blinklist.com
 www.blip.tv
-www.blockchain.info
 www.blogcatalog.com
 www.blogfa.com
 www.blogs.com
@@ -249,7 +248,6 @@ www.clickbank.com
 www.clickbank.net
 www.clip.vn
 www.clixsense.com
-www.cloudflare.com
 www.clubedohardware.com.br
 www.cmse.ru
 www.codeschool.com
@@ -721,7 +719,6 @@ www.micromaxinfo.com
 www.microworkers.com
 www.mindmeister.com
 www.mindtools.com
-www.minecraftforum.net
 www.minijuegos.com
 www.minutebuzz.com
 www.mitbbs.com
@@ -1066,7 +1063,6 @@ www.teespring.com
 www.telelistas.net
 www.template-help.com
 www.templatemonster.com
-www.tfl.gov.uk
 www.tgju.org
 www.th3professional.com
 www.thaqafnafsak.com
