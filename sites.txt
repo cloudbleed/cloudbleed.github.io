@@ -2,7 +2,7 @@ www.authy.com
 www.coinbase.com
 www.bitcoin.de
 www.betterment.com
-www.transferwise.com
+transferwise.com
 www.prosper.com
 www.patreon.com
 www.bitpay.com
