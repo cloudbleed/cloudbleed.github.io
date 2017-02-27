@@ -6,7 +6,7 @@ www.transferwise.com
 www.prosper.com
 www.patreon.com
 www.bitpay.com
-www.news.ycombinator.com
+www.ycombinator.com
 www.producthunt.com
 www.medium.com
 www.4chan.org
