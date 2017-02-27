@@ -6,7 +6,7 @@ www.transferwise.com
 www.prosper.com
 www.patreon.com
 www.bitpay.com
-www.ycombinator.com
+news.ycombinator.com
 www.producthunt.com
 www.medium.com
 www.4chan.org
@@ -20,8 +20,7 @@ www.23andme.com
 www.minecraftforum.net
 www.counsyl.com
 www.tfl.gov.uk
-www.account.leagueoflegends.com
-www.myaccount.nytimes.com
+myaccount.nytimes.com
 www.technicpack.net
 www.cloudflare.com
 www.blockchain.info
