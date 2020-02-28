@@ -10,6 +10,7 @@ news.ycombinator.com
 www.producthunt.com
 www.medium.com
 www.4chan.org
+www.theyuvas.com
 www.yelp.com
 www.okcupid.com
 www.uber.com
